@@ -2,11 +2,9 @@
 "Juego de plataformas 2D hecho con Pygame y Programación Orientada a Objetos"🙂 🍄
 🔧 Características
 
-👾 Jugabilidad tipo arcade 2D
+👾 Jugabilidad tipo arcade
 
 🚶 Movimiento lateral (izquierda/derecha)
-
-🪜 Saltos con gravedad realista
 
 ⚠️ Colisiones con enemigos
 
@@ -17,9 +15,9 @@
 
 🧠 POO en acción
 
-🧱 Clases como Jugador, Enemigo, Bloque, Juego, etc.
+🧱 Clases como Jugador, Enemigo, Jugador, etc.
 
-🧬 Herencia: enemigos y bloques que heredan de clases base
+🧬 Herencia: enemigos que heredan de clases base
 
 
 🎭 Polimorfismo: múltiples métodos update según el tipo de objeto
