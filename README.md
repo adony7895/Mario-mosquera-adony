@@ -4,7 +4,7 @@ https://github.com/adony7895/Mario-mosquera-adony
 git clone 
 cd Mario-mosquera-adony
 
-python main.py
+python todo.py
 
 
 "Juego de plataformas 2D hecho con Pygame y Programación Orientada a Objetos"🙂 🍄
