@@ -76,3 +76,4 @@ pip install pygame
 - Diseño modular basado en clases
 
 🧪 Aprendizajes Este proyecto está diseñado para ayudarte a entender los conceptos fundamentales de POO en Python con un enfoque práctico y visual. Ideal para estudiantes, principiantes y cualquier entusiasta de la programación de videojuegos. 🧑‍💻🎨
+siempre teniendo en cuenta la poo  
